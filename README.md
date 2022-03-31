@@ -6,3 +6,6 @@ Solutions Oriented Student of Business Informatics Bachelor program of HSE Unive
 
 ##  Table of contents
 About
+
+
+[youlink]
