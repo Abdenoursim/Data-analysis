@@ -25,16 +25,16 @@ Solutions Oriented Student of Business Informatics Bachelor program of HSE Unive
 **Technology:** Python, Numpy, Jupyeter Notebook.  
 
 ### Titanic case study with Pandas
-**Code:** [`Titanic_case_study_with_Pandas.ipynb`](https://github.com/Abdenoursim/case/blob/master/Numpy%20practice.ipynb)    
-**Description:** The sinking of the Titanic is one of the most infamous shipwrecks in history. making some analysis and models that based on “features” like passengers’ gender and class 
-**Skills:** Data analysis, predicts which passengers tend to survive the Titanic shipwreck, good practice on Pandas,Matplotlib and seaborn.
+**Code:** [`Titanic_case_study_with_Pandas.ipynb`](https://github.com/Abdenoursim/case/blob/master/Titanic%20Case%20Study%20With%20Pandas_.ipynb)    
+**Description:** The sinking of the Titanic is one of the most infamous shipwrecks in history. making some analysis and models that based on  “features” like passengers’ gender and class.  
+**Skills:** Data analysis, predicts which passengers tend to survive the Titanic shipwreck, good practice on Pandas,Matplotlib and seaborn.  
 **Technology:** Python, Pandas, Matplotlib, seaborn.  
 
 ### Practice on Numpy
 **Code:** [`Practice_on_Numpy.ipynb`](https://github.com/Abdenoursim/case/blob/master/Numpy%20practice.ipynb)    
 **Description:** hand on practice on Numpy from University course Machine learning first chapter.  
 **Skills:** Functions,arrays and operations on Numpy, mathematical calculations using Numpy.  
-**Technology:** Python, Pandas, Jupyeter Notebook.  
+**Technology:** Python, Pandas, Jupyeter Notebook. \ 
 
 ### Practice on Numpy
 **Code:** [`Practice_on_Numpy.ipynb`](https://github.com/Abdenoursim/case/blob/master/Numpy%20practice.ipynb)    
