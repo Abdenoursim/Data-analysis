@@ -7,7 +7,8 @@
   * [Titanic case study with Pandas](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#titanic-case-study-with-pandas)
   * [mlcourse Adult Exploratory data analysis with Pandas](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#mlcourse-adult-exploratory-data-analysis-with-pandas)
   * [mlcourse analyzing cardiovascular data](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#mlcourse-analyzing-cardiovascular-data)
-  * [Practice on Numpy](https://github.com/Abdenoursim/Data-analysis#practice-on-numpy)
+  * [Testing The Relationships Between Test Completion and Dog Characteristics](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#testing-the-relationships-between-test-completion-and-dog-characteristics)
+  * [Testing The Relationships Between Test Completion and Testing Circumstances](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#testing-the-relationships-between-test-completion-and-testing-circumstances)
 * [Certification](https://github.com/Abdenoursim/Data-analysis#about)
 * [Contact](https://github.com/Abdenoursim/Data-analysis#about)
 
@@ -44,5 +45,16 @@ Solutions Oriented Student of Business Informatics Bachelor program of HSE Unive
 **Skills:** Analyzing cardiovascular disease data, statistical analysis, hand on practice on Pandas Matplotlib and seaborn,Health care Data analysis.    
 **Technology:** Python, Pandas, Matplotlib, seaborn.   
  
+ ### Testing The Relationships Between Test Completion and Dog Characteristics
+**Code:** [`Relationships_Between_Test_Completion_and_Dog_Characteristics.ipynb`](https://github.com/Abdenoursim/case/blob/master/Relationships_Between_Test_Completion_and_Dog_Characteristics_.ipynb)      
+**Description:** Writing complicated Queries that Assess whether Dognition personality dimensions are related to the number of tests completed, Assess whether dog breeds feature are related to the number of tests completed, Assess whether dog breeds feature and neutering feature are related to the number of tests completed  
+**Skills:** Building complicated Queries that include:(grouping, joining, Agggregations, Subqueries, functions and case statement).  
+**Technology:** Mysql,Jupyeter notebook.  
+
+ ### Testing The Relationships Between Test Completion and Testing Circumstances
+**Code:** [`Relationships_Between_Test_Completion_and_Dog_Characteristics.ipynb`](https://github.com/Abdenoursim/case/blob/master/Relationships_Between_Test_Completion_and_Testing_Circumstances_.ipynb)      
+**Description:** Writing complicated Queries that Assess During which weekdays do Dognition users complete the most tests, Which states and countries have the most Dognition users.  
+**Skills:** Building complicated Queries that include:(grouping, joining, Agggregations, Subqueries, functions and case statement).  
+**Technology:** Mysql,Jupyeter notebook.  
 
 
