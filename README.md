@@ -9,8 +9,8 @@
   * [mlcourse analyzing cardiovascular data](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#mlcourse-analyzing-cardiovascular-data)
   * [Testing The Relationships Between Test Completion and Dog Characteristics](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#testing-the-relationships-between-test-completion-and-dog-characteristics)
   * [Testing The Relationships Between Test Completion and Testing Circumstances](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#testing-the-relationships-between-test-completion-and-testing-circumstances)
-* [Certification](https://github.com/Abdenoursim/Data-analysis#about)
-* [Contact](https://github.com/Abdenoursim/Data-analysis#about)
+* [Certification](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#certification)
+* [Contact](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#contact)
 
 
 
@@ -58,3 +58,16 @@ Solutions Oriented Student of Business Informatics Bachelor program of HSE Unive
 **Technology:** Mysql,Jupyeter notebook.  
 
 
+##  Certification
+
+
+
+
+
+
+##  Contact
+
+**Telegram:** https://t.me/Abdenour_sim   
+**Email:** asimohamed@edu.hse.ru  
+**Whatssap:** +79263378807  
+**Linkedin:** [Abdenour_SiMohamed](https://www.linkedin.com/in/abdenour-simohamed-b03620224/)  
