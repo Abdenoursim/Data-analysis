@@ -10,6 +10,7 @@
   * [Testing The Relationships Between Test Completion and Dog Characteristics](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#testing-the-relationships-between-test-completion-and-dog-characteristics)
   * [Testing The Relationships Between Test Completion and Testing Circumstances](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#testing-the-relationships-between-test-completion-and-testing-circumstances)
   * [How does a bike-share navigate speedy success?](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#how-does-a-bike-share-navigate-speedy-success)
+  * [Airport luggage registration Database](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#airport-luggage-registration-database)
 * [Certification](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#certification)
 * [Contact](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#contact)
 
@@ -69,6 +70,11 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 share, and act)   
 **Technology:** Power BI, Dax, Power Query.  
 
+ ### Airport luggage registration Database
+**Report:** [`Airport_luggage_registration_Database.pdf`](https://github.com/Abdenoursim/case/blob/master/Airport%20luggage%20registration%20Database.pdf)      
+**Description:** Building an Airport registration Database from scratch, Designing the Database to fit all the requirement seted on the requirement sheet(for example Adding Triggers, Indexes foreign and private keys... and drawing some insight using Power Bi) .  
+**Skills:** ER-Diagram, Relational Schema, Data manipulation with SQL queries, Data Visualization, INDEXES, Triggers.  
+**Technology:** SQL,DDL, DMBS, Dbeaver Server . 
 
 ##  Certification
 
