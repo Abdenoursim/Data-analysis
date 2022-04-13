@@ -9,6 +9,7 @@
   * [mlcourse analyzing cardiovascular data](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#mlcourse-analyzing-cardiovascular-data)
   * [Testing The Relationships Between Test Completion and Dog Characteristics](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#testing-the-relationships-between-test-completion-and-dog-characteristics)
   * [Testing The Relationships Between Test Completion and Testing Circumstances](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#testing-the-relationships-between-test-completion-and-testing-circumstances)
+  * [How does a bike-share navigate speedy success?](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#how-does-a-bike-share-navigate-speedy-success)
 * [Certification](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#certification)
 * [Contact](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#contact)
 
@@ -56,6 +57,17 @@ Solutions Oriented Student of Business Informatics Bachelor program of HSE Unive
 **Description:** Writing complicated Queries that Assess During which weekdays do Dognition users complete the most tests, Which states and countries have the most Dognition users.  
 **Skills:** Building complicated Queries that include:(grouping, joining, Agggregations, Subqueries, functions and case statement).  
 **Technology:** Mysql,Jupyeter notebook.  
+
+ ### How does a bike-share navigate speedy success?
+**Code:** [`How_does_a_bike-share_navigate_speedy_success.pbix`](https://app.powerbi.com/reportEmbed?reportId=2f1e5827-93ea-43f2-88eb-c7fd3403435c&autoAuth=true&ctid=21f26c24-0793-4b07-a73d-563cd2ec235f&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)   
+**Report:** [bike-share_report.pdf](https://github.com/Abdenoursim/case/blob/master/Bake%20case%20study.pdf)  
+**Description:** Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to
+do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why
+casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are
+interested in analyzing the Cyclistic historical bike trip data to identify trends.  
+**Skills:** A/B Testing, Power Query, Dax, Power BI, Reporting, following Data analysis path(ask, prepare, process, analyze,
+share, and act)   
+**Technology:** Power BI, Dax, Power Query.  
 
 
 ##  Certification
