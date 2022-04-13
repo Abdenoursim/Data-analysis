@@ -60,8 +60,9 @@ Solutions Oriented Student of Business Informatics Bachelor program of HSE Unive
 
 ##  Certification
 
-
-
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/2f76f2ba25a63fb11ee943bf9502f155) (Dec 2021) (Google/ Coursera)  
+- [Managing Big Data with MySQL](https://coursera.org/share/2f76f2ba25a63fb11ee943bf9502f155) (March 2021) (Duke University/ Coursera)  
+- [Getting Started with Power BI Desktop](https://coursera.org/share/7ccbde96c89bf0b3b94f5737835cdc04) (September 2020) (Coursera)  
 
 
 
