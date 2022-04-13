@@ -11,8 +11,8 @@
   * [Testing The Relationships Between Test Completion and Testing Circumstances](https://github.com/Abdenoursim/Data-analysis#testing-the-relationships-between-test-completion-and-testing-circumstances)
   * [How does a bike-share navigate speedy success?](https://github.com/Abdenoursim/Data-analysis#how-does-a-bike-share-navigate-speedy-success)
   * [Airport luggage registration Database](https://github.com/Abdenoursim/Data-analysis#airport-luggage-registration-database)
-* [Certification](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#certification)
-* [Contact](https://github.com/Abdenoursim/Data-analysis/edit/main/README.md#contact)
+* [Certification](https://github.com/Abdenoursim/Data-analysis#certification)
+* [Contact](https://github.com/Abdenoursim/Data-analysis#contact)
 
 
 
