@@ -3,7 +3,7 @@
 <!--Link-->
 * [About](https://github.com/Abdenoursim/Data-analysis#about)
 * [Portfolio and study project](https://github.com/Abdenoursim/Data-analysis#portfolio-project)
-  * [PowerBi Dashboards portfolio](https://github.com/Abdenoursim/Data-analysis#about)
+  * [PowerBi Dashboards portfolio](https://github.com/Abdenoursim/Data-analysis#powerbi-dashboards-portfolio)
   * [Practice on Numpy](https://github.com/Abdenoursim/Data-analysis#about)
   * [Titanic case study with Pandas](https://github.com/Abdenoursim/Data-analysis#titanic-case-study-with-pandas)
   * [mlcourse Adult Exploratory data analysis with Pandas](https://github.com/Abdenoursim/Data-analysis#mlcourse-adult-exploratory-data-analysis-with-pandas)
