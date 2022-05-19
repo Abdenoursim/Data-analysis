@@ -3,6 +3,7 @@
 <!--Link-->
 * [About](https://github.com/Abdenoursim/Data-analysis#about)
 * [Portfolio and study project](https://github.com/Abdenoursim/Data-analysis#portfolio-project)
+  * [PowerBi Dashboards portfolio](https://github.com/Abdenoursim/Data-analysis#about)
   * [Practice on Numpy](https://github.com/Abdenoursim/Data-analysis#about)
   * [Titanic case study with Pandas](https://github.com/Abdenoursim/Data-analysis#titanic-case-study-with-pandas)
   * [mlcourse Adult Exploratory data analysis with Pandas](https://github.com/Abdenoursim/Data-analysis#mlcourse-adult-exploratory-data-analysis-with-pandas)
@@ -22,6 +23,11 @@ Solutions Oriented Student of Business Informatics Bachelor program of HSE Unive
 
 ##  Portfolio and study project
 
+### PowerBi Dashboards portfolio
+**Code:** [`PowerBi_Dashboards_portfolio.pdf`](https://github.com/Abdenoursim/case/blob/master/dashboards%20portfolio.pdf)    
+**Description:** You can fine in this file a pictures and link to some Dashboards that I developed before.  
+**Skills:** measures,dynamic measures,Dashboard design,Power Query,Excel,Power Bi,Relational Database.  
+**Technology:** Power Bi, Excel, Powerquery.  
 
 ### Practice on Numpy
 **Code:** [`Practice_on_Numpy.ipynb`](https://github.com/Abdenoursim/case/blob/master/Numpy%20practice.ipynb)    
